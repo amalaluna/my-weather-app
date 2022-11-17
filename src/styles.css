@@ -8,6 +8,12 @@ img {
   margin-right: 15px;
 }
 
+footer {
+  float: right;
+  font-size: 15px;
+  margin-top: 60px;
+}
+
 .units a {
   text-decoration: none;
 }
